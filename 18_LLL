@@ -1,0 +1,2 @@
+ 18.  LLL算法（Lenstra-Lenstra-Lovasz  lattice reduction）
+以格规约（lattice）基数为输入，输出短正交向量基数。LLL算法在以下公共密钥加密方法中有大量使用：背包加密系统（knapsack）、有特定设置的RSA加密等等。
