@@ -1,2 +1,0 @@
- 29.  奇异值分解（Singular value decomposition，简称SVD）
-在线性代数中，SVD是重要的实数或复数矩阵的分解方法，在信号处理和统计中有多种应用，比如计算矩阵的伪逆矩阵（以求解最小二乘法问题）、解决超定线性系统（overdetermined linear systems）、矩阵逼近、数值天气预报等等。
