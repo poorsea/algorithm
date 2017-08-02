@@ -1,2 +1,0 @@
- 27.  Schönhage-Strassen算法
-在数学中，Schönhage-Strassen算法是用来完成大整数的乘法的快速渐近算法。其算法复杂度为：O(N log(N) log(log(N)))，该算法使用了傅里叶变换。
