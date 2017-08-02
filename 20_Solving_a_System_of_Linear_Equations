@@ -1,2 +1,0 @@
- 28.  求解线性方程组（Solving a system of linear equations）
-线性方程组是数学中最古老的问题，它们有很多应用，比如在数字信号处理、线性规划中的估算和预测、数值分析中的非线性问题逼近等等。求解线性方程组，可以使用高斯—约当消去法（Gauss-Jordan elimination），或是柯列斯基分解（ Cholesky decomposition）。
